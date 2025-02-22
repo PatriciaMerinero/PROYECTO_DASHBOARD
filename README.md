@@ -10,7 +10,7 @@
 
 
 ## DESCRIPCIÓN DEL PROYECTO📌:
- Mi primer repositorio en GIT. Es un análisis de recuperaciones de Fraude en tarjetas de Crédito/Débito, mediante Chargebacks. Con éste análisis podemos establecer acciones para prevención del Fraude, aplicando reglas mas severas para las transacciones por tipo de comercio o por fechas concretas.También podemos analizar los importes recuperados ya que hay que revisar si compensa solicitar chargebacks por los costes que tienen.
+ Mi primer repositorio GIT. Es un análisis de recuperaciones de Fraude en tarjetas de Crédito/Débito, mediante Chargebacks. Con éste análisis podemos establecer acciones para prevención del Fraude, aplicando reglas mas severas para las transacciones por tipo de comercio o por fechas concretas.También podemos analizar el importe recuperado ya que hay que revisar si compensa solicitar chargebacks por los costes que tienen.
  
 ## ESTRUCTURA:
 
@@ -61,28 +61,47 @@ Este dataset contiene información sobre **transacciones de chargebacks**, inclu
   - Tablas dinámicas
   - `Dashboard`
 - Informe PDF con las conclusiones y acciones a realizar tras análisis.
+  ###[Informe de Chargebacks](https://github.com/PatriciaMerinero/PROYECTO_DASHBOARD/blob/main/INFORME%20DASHBOARD.pdf) 📝
   
 **Se utilizó Excel para la limpieza inicial de los datos, el análisis y visualización.**
 
 ## RESULTADO Y CONCLUSIONES 🔍
 
-###[Informe de Chargebacks](https://github.com/PatriciaMerinero/PROYECTO_DASHBOARD/blob/main/INFORME%20DASHBOARD.pdf) 📝
+
 
 - La duración promedio para la resolución de un caso es de 75 días.
 - Recuperamos por CBKS un 49% del importe del Fraude. Si compensa el iniciar disputa ya que el porcentaje de recuperaciones es elevado.
 - El comercio devuelve un 26% sin iniciar ninguna disputa.
 - Se lleva a pérdidas por Fraude un 25%.
 
- ![image](https://github.com/user-attachments/assets/cace1aa0-b3e8-4cb3-a497-206f92c83c84)
+ ![Status importes](https://github.com/user-attachments/assets/f7581da2-2b8a-4ae8-a099-3e3f96462c21)
+
+
 
 - El importe evitado es elevado por las acciones de prevención como pueden ser las reglas del motor antifraude.
 - La categoría de comercios donde se hace más Fraude es en Hogar y Jardín.
 
+  ![Categorias de comercios](https://github.com/user-attachments/assets/fde5aea4-4155-4911-a049-eec3952938e8)
+
+
+
   
 - Los lunes son los días de la semana con más Fraude online.
+
+![Días con mas Fraude](https://github.com/user-attachments/assets/d8d06b64-0a01-4b4d-821b-d06d07917445)
+
 - El mes con más Fraude es febrero.
 
-## 
+  
+![Evolutivo Fraude](https://github.com/user-attachments/assets/83a61257-a53a-4ce4-9605-912d9a657454)
+
+## PRÓXIMOS PASOS
+**Realizar un estudio de los costes de la gestión de los Chargebacks**
+
+## AGRADEZCO CUALQUIER TIPO DE CONTRIBUCIÓN 💡
+
+
+
 
 
  
