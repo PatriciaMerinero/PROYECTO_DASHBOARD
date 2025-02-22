@@ -26,11 +26,17 @@
 - Recuperamos por CBKS un 49% del importe de Fraude.
 - El comercio devuelve un 26% sin iniciar ninguna disputa.
 - Se lleva a pérdidas por Fraude un 25%.
+
+ ![image](https://github.com/user-attachments/assets/cace1aa0-b3e8-4cb3-a497-206f92c83c84)
+
 - El importe evitado es elevado por las acciones de prevención como pueden ser las reglas del motor antifraude.
 - La categoría de comercios donde se hace el Fraude el Hogar y Jardín.
+
+  
 - Los lunes son los días de la semana con más Fraude online.
 - El mes con más Fraude es febrero.
-- 
+
+## 
 
 
  
