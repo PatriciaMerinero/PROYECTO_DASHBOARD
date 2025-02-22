@@ -66,7 +66,7 @@ Este dataset contiene información sobre **transacciones de chargebacks**, inclu
 
 ## RESULTADO Y CONCLUSIONES 🔍
 
-###[Informe de Chargebacks](ruta/al/informe.pdf)
+###[Informe de Chargebacks](https://github.com/PatriciaMerinero/PROYECTO_DASHBOARD/blob/main/INFORME%20DASHBOARD.pdf) 📝
 
 - La duración promedio para la resolución de un caso es de 75 días.
 - Recuperamos por CBKS un 49% del importe del Fraude. Si compensa el iniciar disputa ya que el porcentaje de recuperaciones es elevado.
