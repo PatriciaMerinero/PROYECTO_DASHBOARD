@@ -100,6 +100,8 @@ Este dataset contiene información sobre **transacciones de chargebacks**, inclu
 
 ## AGRADEZCO CUALQUIER TIPO DE CONTRIBUCIÓN 💡
 
+🖊️**Patricia Merinero**
+
 
 
 
