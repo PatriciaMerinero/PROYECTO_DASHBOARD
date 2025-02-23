@@ -70,9 +70,9 @@ Este dataset contiene información sobre **transacciones de chargebacks**, inclu
 
 
 - La duración promedio para la resolución de un caso es de 75 días.
-- Recuperamos por CBKS un 49% del importe del Fraude. Si compensa el iniciar disputa ya que el porcentaje de recuperaciones es elevado.
-- El comercio devuelve un 26% sin iniciar ninguna disputa.
-- Se lleva a pérdidas por Fraude un 25%.
+- Recuperamos por CBKS un 34% del importe del Fraude. Si compensa el iniciar disputa ya que el porcentaje de recuperaciones es elevado.
+- El comercio devuelve un 18% sin iniciar ninguna disputa.
+- Se lleva a pérdidas por Fraude un 18%.
 
  ![Status importes](https://github.com/user-attachments/assets/f7581da2-2b8a-4ae8-a099-3e3f96462c21)
 
